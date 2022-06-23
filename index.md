@@ -1,6 +1,6 @@
 ## Bienvenue sur Mapado
 
-[Visiter une sous page](https://github.com/jnieuviarts/jnieuviarts.github.io/subpage.md)
+[Visiter une sous page](subpage.md)
 
 You can use the [editor on GitHub](https://github.com/jnieuviarts/jnieuviarts.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
